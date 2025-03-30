@@ -42,7 +42,7 @@ Passionate software engineer with 5+ years of experience building scalable web a
 
 ### 📈 GitHub Stats
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derek-dv&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
@@ -51,7 +51,7 @@ Passionate software engineer with 5+ years of experience building scalable web a
 
 ---
 
-⭐️ From [your-github-username](https://github.com/your-github-username)
+⭐️ From [derek-dv](https://github.com/derek-dv)
 <!---
 derek-dv/derek-dv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
